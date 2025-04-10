@@ -9,7 +9,7 @@ for x in range(5):
 print(f"A quantidade de valores entre 10 e 20 presentes é de: {num}"
       f"\nA quantidade de valores fora do intervalo de 10 e 20 é: {num2}")"""
 
-#codigo mais eficiente
+#codigo mais eficiente(ao retirar o else a quantidade de calculos feita diminui"
 
 num = 0
 num2 = 0
